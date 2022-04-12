@@ -1,0 +1,8 @@
+Projetos em Andamento usando o HTML e o CSS
+
+- Estou fazendo um site funcional usando o HTML e o CSS no Visual Code;
+
+- Descricao: Estou quase finalizando o projeto de criacao de site, 
+onde comecei fazendo o site no figma (parte wireframe) 
+praticamente finalizando a passagem do figma para html/css (parte do Mockup)
+e estou no incio da parte de conexoes e teste no site(Prototipo); 

@@ -1,0 +1,8 @@
+Projetos Finalizados/Andamento no GameMaker Studio 2 
+
+- Linguagem GML estou aprendendo essa nova Engine;
+
+Projetos:
+>Recriei o Jogo do PONG ;
+
+>Fiz uma copia do jogo Flap_Bird com sprites diferentes; 
